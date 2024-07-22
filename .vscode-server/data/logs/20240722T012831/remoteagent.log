@@ -1,0 +1,98 @@
+2024-07-22 01:28:31.336 [info] 
+
+
+
+
+2024-07-22 01:28:31.336 [info] Extension host agent started.
+2024-07-22 01:28:31.348 [info] Started initializing default profile extensions in extensions installation folder. file:///home/pyx/.vscode-server/extensions
+2024-07-22 01:28:31.360 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/pyx/.vscode-server/extensions
+2024-07-22 01:28:31.433 [info] [127.0.0.1][124f4400][ManagementConnection] New connection established.
+2024-07-22 01:28:31.459 [info] Installing extensions...
+2024-07-22 01:28:31.561 [info] [127.0.0.1][50e53835][ExtensionHostConnection] New connection established.
+2024-07-22 01:28:31.832 [info] [127.0.0.1][50e53835][ExtensionHostConnection] <30532> Launched Extension Host Process.
+2024-07-22 01:28:32.314 [info] Installing extension 'ms-ceintl.vscode-language-pack-zh-hans'...
+2024-07-22 01:28:32.642 [info] Getting Manifest... ms-ceintl.vscode-language-pack-zh-hans
+2024-07-22 01:28:32.656 [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hans {"isMachineScoped":true,"isBuiltin":false,"installGivenVersion":false,"isApplicationScoped":true,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/pyx/.vscode-server/extensions/extensions.json","external":"file:///home/pyx/.vscode-server/extensions/extensions.json","path":"/home/pyx/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:48.553Z"}}
+2024-07-22 01:28:34.512 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-zh-hans: Success. Executed: true. Duration: 1203ms.
+2024-07-22 01:28:34.615 [info] Extracted extension to file:///home/pyx/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.91.2024071009: ms-ceintl.vscode-language-pack-zh-hans
+2024-07-22 01:28:34.620 [info] Renamed to /home/pyx/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.91.2024071009
+2024-07-22 01:28:34.631 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-zh-hans
+2024-07-22 01:28:34.646 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-zh-hans file:///home/pyx/.vscode-server/extensions/extensions.json
+2024-07-22 01:28:34.648 [info] Extension 'ms-ceintl.vscode-language-pack-zh-hans' v1.91.2024071009 was successfully installed.
+2024-07-22 01:29:10.962 [info] [127.0.0.1][124f4400][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-07-22 01:29:10.963 [info] [127.0.0.1][50e53835][ExtensionHostConnection] <30532> Extension Host Process exited with code: 0, signal: null.
+2024-07-22 01:29:13.167 [info] [127.0.0.1][dd880283][ManagementConnection] New connection established.
+2024-07-22 01:29:13.353 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] New connection established.
+2024-07-22 01:29:13.357 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] <30766> Launched Extension Host Process.
+2024-07-22 03:07:55.859 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 03:07:56.001 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 03:17:32.984 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 03:18:13.373 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 03:18:17.798 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 05:18:32.577 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 05:18:32.726 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 06:05:58.866 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 06:06:21.944 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 07:13:12.902 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 07:13:13.022 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 15:10:55.143 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 15:10:55.704 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 15:36:39.740 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 15:44:15.510 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 15:44:15.665 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 16:00:12.143 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 16:00:12.236 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 16:15:06.658 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 16:15:06.760 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 16:15:12.125 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 16:15:12.214 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 16:19:44.962 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 16:19:45.058 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 16:20:51.504 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 16:20:51.610 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 16:35:34.797 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 16:35:34.890 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 16:36:33.085 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 16:36:33.214 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 16:38:14.168 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 16:38:14.289 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 17:35:23.649 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 17:35:24.175 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 17:41:43.860 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 17:41:43.964 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 17:44:54.817 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 17:44:54.912 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 17:45:13.502 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 17:45:13.662 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 17:46:10.089 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 17:46:10.187 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 18:00:45.871 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 18:00:45.986 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 18:04:08.402 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 18:04:08.487 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 18:04:20.417 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 18:04:20.511 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 18:23:59.765 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 18:23:59.910 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 18:49:27.807 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 18:49:27.917 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 19:40:48.145 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 19:40:48.149 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 19:55:56.333 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 19:55:56.424 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 20:33:24.087 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 20:33:24.205 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 20:51:12.753 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 20:51:12.840 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 21:38:43.428 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-22 21:38:43.509 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 22:46:49.697 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-22 22:46:49.700 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-23 00:29:50.532 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-23 00:29:50.673 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-23 00:29:52.099 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-23 00:29:52.197 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-23 00:31:19.434 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-23 00:31:19.548 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.
+2024-07-23 01:32:06.079 [info] [127.0.0.1][dd880283][ManagementConnection] The client has reconnected.
+2024-07-23 01:32:06.186 [info] [127.0.0.1][7a573d1b][ExtensionHostConnection] The client has reconnected.

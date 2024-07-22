@@ -1,0 +1,11 @@
+2024-07-22 01:29:13.708 [info] Extension host with pid 30766 started
+2024-07-22 01:29:13.758 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-07-22 01:29:13.763 [info] Lock '/home/pyx/.vscode-server/data/User/workspaceStorage/d46debd6bc9361e32870aeb71790a653/vscode.lock': Lock acquired.
+2024-07-22 01:29:13.874 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-22 01:29:14.039 [info] Eager extensions activated
+2024-07-22 01:29:14.039 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-22 01:29:14.040 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-22 01:29:15.447 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-07-22 01:29:15.596 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-22 01:40:08.769 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-07-22 03:08:41.198 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
